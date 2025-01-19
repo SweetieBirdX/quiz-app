@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "When was METU founded?",
+      option1: "15 November 1956",
+      option2: "25 June 1943",
+      option3: "3 October 1998",
+      option4: "18 January 1934",
+      ans: 1,
+    },
+    {
+      question: "How many regions does Turkey consist of?",
+      option1: "5",
+      option2: "6",
+      option3: "7",
+      option4: "8",
+      ans: 3,
+    },
+    {
+      question: "What is the capital city of Turkey?",
+      option1: "Ankara",
+      option2: "Istanbul",
+      option3: "Izmir",
+      option4: "Konya",
+      ans: 1,
+    },
+    {
+      question: "Who is the first rector of METU?",
+      option1: "Ahmet Yozgatligil",
+      option2: "Kemal Kurdas",
+      option3: "Mustafa Versan Kok",
+      option4: "Thomas Godfrey",
+      ans: 4,
+    },
+    {
+      question: "What colours does METU logo consists of?",
+      option1: "Red and yellow",
+      option2: "Yellow and blue",
+      option3: "Red and white",
+      option4: "Black and white",
+      ans: 3,
+    },
+  ];
